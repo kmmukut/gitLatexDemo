@@ -1,6 +1,6 @@
-PWD c:\Users\0806mukutk\OneDrive - Marquette University\Desktop\latex_demo
+PWD c:\Users\0806mukutk\OneDrive - Marquette University\Desktop\demo\gitLatexDemo
 INPUT C:\Users\0806mukutk\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\0806mukutk\OneDrive - Marquette University\Desktop\latex_demo\main.tex
+INPUT c:\Users\0806mukutk\OneDrive - Marquette University\Desktop\demo\gitLatexDemo\main.tex
 OUTPUT main.log
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
@@ -807,13 +807,6 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx1200.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1200.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm0600.tfm
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecss0600.tfm
 INPUT .\wordvslatex.jpg
 INPUT .\wordvslatex.jpg
 INPUT wordvslatex.jpg
@@ -821,6 +814,14 @@ INPUT .\wordvslatex.jpg
 INPUT .\wordvslatex.jpg
 INPUT .\wordvslatex.jpg
 INPUT .\wordvslatex.jpg
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm0600.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecss0600.tfm
+INPUT C:\Users\0806mukutk\AppData\Local\MiKTeX\2.9\fonts\map\pdftex\pdftex.map
 INPUT .\eqWord.png
 INPUT .\eqWord.png
 INPUT eqWord.png
@@ -838,7 +839,6 @@ INPUT .\eqDemo.png
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx8.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx6.tfm
-INPUT C:\Users\0806mukutk\AppData\Local\MiKTeX\2.9\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
 INPUT .\Capture.PNG
