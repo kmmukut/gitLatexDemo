@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{BibEntry2020Apr}
+{Contrasting Microsoft Word and LaTeX}, April 2020.
+\newblock [Online; accessed 15. Sep. 2022].
+
+\bibitem{Mukut2022Jul}
+Khaled~Mosharraf Mukut, Somesh Roy, and Eirini Goudeli.
+\newblock {Molecular arrangement and fringe identification and analysis from
+  molecular dynamics (MAFIA-MD): A tool for analyzing the molecular structures
+  formed during reactive molecular dynamics simulation of hydrocarbons}.
+\newblock {\em Comput. Phys. Commun.}, 276:108325, July 2022.
+
+\bibitem{Claydon17}
+I.~{Claydon}, M.~{Gieles}, and A.~{Zocchi}.
+\newblock {The properties of energetically unbound stars in stellar clusters}.
+\newblock {\em \mnras}, 466:3937--3950, May 2017.
+
+\end{thebibliography}

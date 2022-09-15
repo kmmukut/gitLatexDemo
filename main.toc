@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}\LaTeX vs. Word processors}{1}{section.1}%
+\contentsline {section}{\numberline {2}Writing Equations using \LaTeX }{1}{section.2}%
+\contentsline {section}{\numberline {3}Building Tables with \LaTeX }{3}{section.3}%
+\contentsline {section}{\numberline {4}Citation Management in \LaTeX }{3}{section.4}%
+\contentsline {section}{\numberline {5}List of Contents, Figures and Tables}{4}{section.5}%
+\contentsline {section}{\numberline {6}How can we use \LaTeX }{5}{section.6}%
+\contentsline {section}{\numberline {7}A Short Introduction to \texttt {GIT}}{5}{section.7}%
+\contentsline {subsection}{\numberline {7.1}\texttt {GIT} Workflow I Use for \LaTeX }{5}{subsection.7.1}%
